@@ -1,2 +1,0 @@
-exports.ids=[8],exports.modules={63:function(r,t,e){"use strict";e.r(t);var o={layout:"404",components:{ErrorPage:e(6).a},data:()=>({error:{statusCode:404}})},n=e(1),component=Object(n.a)(o,function(){var r=this.$createElement;return(this._self._c||r)("ErrorPage",{attrs:{error:this.error}})},[],!1,null,null,"0c7fabfa");t.default=component.exports}};
-//# sourceMappingURL=bf2e9c4bd0f6a4229454.js.map
