@@ -1,0 +1,23 @@
+# Docs: https://docs.statusfy.co/config
+baseUrl = "https://status.kscout.io"
+serviceWorker = true
+manifest = true
+
+[notifications]
+[notifications.support]
+en = "mailto:nhuppert@redhat.com"
+
+[content]
+dir = "docs"
+frontMatterFormat = "yaml"
+systems = [
+	"dns",
+	"website",
+	"serverless-registry-api",
+	"chat-bot-api",
+	"slack-chat-bot-api",
+	"chat-bot-training-data",
+	"status-page",
+	"observe",
+	"serverless-apps"
+]
