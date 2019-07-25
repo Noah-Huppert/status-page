@@ -39,4 +39,4 @@ The status page is hosted via [GitHub pages](https://pages.github.com/).
 
 A CNAME entry exists from status.kscout.io to kscout.github.io/status-page.
 
-The master branch is served.
+The `docs/` directory in the master branch is served.
