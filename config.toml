@@ -8,7 +8,6 @@ manifest = true
 en = "mailto:nhuppert@redhat.com"
 
 [content]
-dir = "docs"
 frontMatterFormat = "yaml"
 systems = [
 	"dns",
