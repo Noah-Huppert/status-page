@@ -12,7 +12,7 @@ export const nuxtI18nSeo = function () {
   }
   const LOCALE_CODE_KEY = 'code'
   const LOCALE_ISO_KEY = 'iso'
-  const BASE_URL = ''
+  const BASE_URL = 'https://status.kscout.io'
   const STRATEGY = 'prefix_except_default'
 
   // Prepare html lang attribute

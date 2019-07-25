@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/</id>
+    <id>https://status.kscout.io</id>
     <title>Statusfy Demo</title>
-    <updated>2019-07-25T03:38:15.738Z</updated>
+    <updated>2019-07-25T04:29:54.369Z</updated>
     <generator>Statusfy</generator>
-    <link rel="alternate" href="/"/>
-    <link rel="self" href="//feeds/incidents.en.atom"/>
+    <link rel="alternate" href="https://status.kscout.io"/>
+    <link rel="self" href="https://status.kscout.io/feeds/incidents.en.atom"/>
     <subtitle>A marvelous open source Status Page system</subtitle>
 </feed>

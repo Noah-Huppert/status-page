@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Statusfy Demo</title>
-        <link>/</link>
+        <link>https://status.kscout.io</link>
         <description>A marvelous open source Status Page system</description>
-        <lastBuildDate>Thu, 25 Jul 2019 03:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2019 04:29:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
-        <atom:link href="//feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://status.kscout.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
     </channel>
 </rss>

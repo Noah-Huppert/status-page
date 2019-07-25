@@ -21,8 +21,8 @@ export default (ctx, inject) => {
     },
     iconSizes: [16, 120, 144, 152, 192, 384, 512],
     theme: {"scheduled":{"position":"belowSystems"}},
-    baseUrl: "\u002F",
-    notifications: {"icalendar":true,"feeds":true,"twitter":false,"support":false}
+    baseUrl: "https:\u002F\u002Fstatus.kscout.io",
+    notifications: {"support":{"en":"mailto:nhuppert@redhat.com"},"icalendar":true,"feeds":true,"twitter":false}
   }
 
   // Inject Statusfy to the context as $statusfy
