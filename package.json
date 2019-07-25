@@ -1,0 +1,27 @@
+{
+  "name": "status-page",
+  "version": "0.1.0",
+  "description": "status.kscout.io",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "statusfy dev",
+    "build": "statusfy build",
+    "start": "statusfy start",
+    "generate": "statusfy generate",
+    "new-incident": "statusfy new-incident"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kscout/status-page.git"
+  },
+  "author": "",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/kscout/status-page/issues"
+  },
+  "homepage": "https://github.com/kscout/status-page#readme",
+  "dependencies": {
+    "statusfy": "^0.4.1"
+  }
+}
