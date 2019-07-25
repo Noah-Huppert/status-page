@@ -25,13 +25,13 @@ npm install
 Create new incidents:
 
 ```
-npm run new-incident
+make new
 ```
 
 Generate the site:
 
 ```
-npm run generate
+make build
 ```
 
 # Deploy

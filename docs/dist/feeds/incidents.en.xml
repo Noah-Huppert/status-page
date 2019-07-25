@@ -4,7 +4,7 @@
         <title>Statusfy Demo</title>
         <link>https://status.kscout.io</link>
         <description>A marvelous open source Status Page system</description>
-        <lastBuildDate>Thu, 25 Jul 2019 04:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2019 04:45:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.kscout.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
