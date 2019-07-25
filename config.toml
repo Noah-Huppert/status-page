@@ -1,6 +1,7 @@
 # Docs: https://docs.statusfy.co/config
 title = "KScout Status"
 description = "Overview of all KScout systems"
+name = "KScout"
 baseUrl = "https://status.kscout.io"
 serviceWorker = true
 manifest = true
@@ -28,3 +29,4 @@ systems = [
 	"observe",
 	"serverless-apps"
 ]
+

@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Statusfy//status.kscout.io//calendar//scheduled//EN
-NAME:Statusfy Demo
-X-WR-CALNAME:Statusfy Demo
+NAME:KScout Status
+X-WR-CALNAME:KScout Status
 TIMEZONE-ID:UTC
 X-WR-TIMEZONE:UTC
 END:VCALENDAR
