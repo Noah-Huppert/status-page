@@ -3,6 +3,12 @@ baseUrl = "https://status.kscout.io"
 serviceWorker = true
 manifest = true
 
+[theme]
+[theme.links.en]
+contact = "mailto:nhuppert@redhat.com"
+support = "mailto:nhuppert@redhat.com"
+home = "https://kscout.io"
+
 [notifications]
 [notifications.support]
 en = "mailto:nhuppert@redhat.com"
