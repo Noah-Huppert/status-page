@@ -6,7 +6,7 @@ dev:
 build:
 	npm run generate
 	mv docs/CNAME .
-	mv dist docs
+	mv dist/ docs/
 	mv CNAME docs
 
 new:

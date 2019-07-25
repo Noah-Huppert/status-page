@@ -1,4 +1,6 @@
 # Docs: https://docs.statusfy.co/config
+title = "KScout Status"
+description = "Overview of all KScout systems"
 baseUrl = "https://status.kscout.io"
 serviceWorker = true
 manifest = true
