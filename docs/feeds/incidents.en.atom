@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.kscout.io</id>
     <title>KScout Status</title>
-    <updated>2019-07-25T05:26:09.795Z</updated>
+    <updated>2019-08-01T16:52:50.945Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.kscout.io"/>
     <link rel="self" href="https://status.kscout.io/feeds/incidents.en.atom"/>
     <subtitle>Overview of all KScout systems</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Investigating]]></title>
+        <id>https://status.kscout.io/incidents/0f6d3c33</id>
+        <link href="https://status.kscout.io/incidents/0f6d3c33"/>
+        <updated>2019-08-01T16:52:17.613Z</updated>
+        <content type="html"><![CDATA[<p>Services were down for 5 minutes</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
 </feed>
