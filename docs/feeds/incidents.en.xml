@@ -4,16 +4,18 @@
         <title>KScout Status</title>
         <link>https://status.kscout.io</link>
         <description>Overview of all KScout systems</description>
-        <lastBuildDate>Thu, 01 Aug 2019 16:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2019 17:20:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.kscout.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Investigating]]></title>
-            <link>https://status.kscout.io/incidents/0f6d3c33</link>
-            <guid>https://status.kscout.io/incidents/0f6d3c33</guid>
-            <pubDate>Thu, 01 Aug 2019 16:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Services were down for 5 minutes</p>
+            <title><![CDATA[Site, API, and Slack Bot Outage]]></title>
+            <link>https://status.kscout.io/incidents/2503da8a</link>
+            <guid>https://status.kscout.io/incidents/2503da8a</guid>
+            <pubDate>Thu, 01 Aug 2019 16:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Services were down for 5 minutes.</p>
+<p>An investigation is ongoing, progress can be tracked
+<a href="https://github.com/kscout/site-reliability/issues/11" target="_blank" rel="noopener noreferrer" class="external">in this GitHub issue</a>.</p>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>

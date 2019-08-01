@@ -2,17 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.kscout.io</id>
     <title>KScout Status</title>
-    <updated>2019-08-01T16:54:56.027Z</updated>
+    <updated>2019-08-01T17:20:37.775Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.kscout.io"/>
     <link rel="self" href="https://status.kscout.io/feeds/incidents.en.atom"/>
     <subtitle>Overview of all KScout systems</subtitle>
     <entry>
-        <title type="html"><![CDATA[Investigating]]></title>
-        <id>https://status.kscout.io/incidents/0f6d3c33</id>
-        <link href="https://status.kscout.io/incidents/0f6d3c33"/>
-        <updated>2019-08-01T16:52:17.613Z</updated>
-        <content type="html"><![CDATA[<p>Services were down for 5 minutes</p>
+        <title type="html"><![CDATA[Site, API, and Slack Bot Outage]]></title>
+        <id>https://status.kscout.io/incidents/2503da8a</id>
+        <link href="https://status.kscout.io/incidents/2503da8a"/>
+        <updated>2019-08-01T16:46:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Services were down for 5 minutes.</p>
+<p>An investigation is ongoing, progress can be tracked
+<a href="https://github.com/kscout/site-reliability/issues/11" target="_blank" rel="noopener noreferrer" class="external">in this GitHub issue</a>.</p>
 <!--- language code: en -->
 ]]></content>
     </entry>
