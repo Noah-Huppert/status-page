@@ -6,7 +6,7 @@ affectedsystems:
   - website
   - serverless-registry-api
   - slack-chat-bot-api
-resolved: false
+resolved: true
 ---
 Services were down for 5 minutes
 
